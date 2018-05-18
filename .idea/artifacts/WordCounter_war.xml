@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WordCounter:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/WordCounter_war</output-path>
+    <root id="archive" name="WordCounter_war.war">
+      <element id="artifact" artifact-name="WordCounter:war exploded" />
+    </root>
+  </artifact>
+</component>
